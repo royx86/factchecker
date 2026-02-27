@@ -1,0 +1,66 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env.local
+.env.*.local
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.env~
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.log
+
+# Project-specific
+data/images/
+data/*.json
+data/post_data.json
+data/preprocessed.json
+data/fact_check_result.json
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+.Python
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+tmp/
+
+# Environment files (keep .env.example instead)
+.env
+!.env.example
