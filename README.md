@@ -5,6 +5,8 @@ AI-powered fact-checking for Instagram posts using vision models, web search, an
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/fastapi-0.104+-green)](https://fastapi.tiangolo.com)
 
+## Live: https://truthlens-production-d3a8.up.railway.app/
+
 ---
 
 ## ✨ Features
